@@ -67,17 +67,17 @@ Answer + Source Evidence
 ```text
 rag-chatbot/
 ├── app/
-│   ├── api/              # FastAPI routes
-│   ├── chains/           # LCEL RAG chain and memory
-│   ├── embeddings/       # Hugging Face embedding factory
-│   ├── loaders/          # PDF loading and chunking
-│   ├── models/           # Pydantic schemas
-│   ├── prompts/          # Grounded RAG prompts
-│   ├── retrievers/       # Retriever configuration
-│   ├── services/         # Ingestion and chat orchestration
-│   ├── utils/            # Environment configuration
-│   ├── vectorstore/      # Persistent ChromaDB wrapper
-│   └── main.py           # FastAPI entry point
+│   ├── api/              
+│   ├── chains/           
+│   ├── embeddings/       
+│   ├── loaders/         
+│   ├── models/          
+│   ├── prompts/        
+│   ├── retrievers/       
+│   ├── services/         
+│   ├── utils/            
+│   ├── vectorstore/    
+│   └── main.py         
 ├── eval/
 │   ├── test_questions.json
 │   └── evaluate.py
