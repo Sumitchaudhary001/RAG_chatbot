@@ -52,7 +52,7 @@ Answer + Source Evidence
 ## Tech Stack
 
 - Python 3.11
-- LangChain / LCEL
+- LangChain
 - FastAPI
 - Streamlit
 - Groq
