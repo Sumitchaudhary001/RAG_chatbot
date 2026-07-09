@@ -5,9 +5,7 @@ import requests
 import streamlit as st
 
 
-# ---------------------------------------------------------
-# Configuration
-# ---------------------------------------------------------
+
 st.set_page_config(
     page_title="RAG Chatbot",
     page_icon="⚽️",
@@ -17,9 +15,8 @@ st.set_page_config(
 API_URL = "http://127.0.0.1:8000"
 
 
-# ---------------------------------------------------------
 # Session state
-# ---------------------------------------------------------
+
 if "session_id" not in st.session_state:
     st.session_state.session_id = str(uuid.uuid4())
 
@@ -33,9 +30,9 @@ if "last_result" not in st.session_state:
     st.session_state.last_result = None
 
 
-# ---------------------------------------------------------
+
 # Simple evaluation heuristic
-# ---------------------------------------------------------
+
 def normalize_words(text: str) -> set[str]:
     words = re.findall(r"\b\w+\b", text.lower())
     return set(words)
@@ -51,9 +48,9 @@ def calculate_overlap(expected: str, generated: str) -> float:
     return len(expected_words & generated_words) / len(expected_words)
 
 
-# ---------------------------------------------------------
+
 # Header
-# ---------------------------------------------------------
+
 st.title("RAG Chatboy using Langchain")
 
 st.caption(
@@ -62,9 +59,8 @@ st.caption(
 )
 
 
-# ---------------------------------------------------------
 # Backend health
-# ---------------------------------------------------------
+
 try:
     health_response = requests.get(
         f"{API_URL}/health",
@@ -89,9 +85,9 @@ else:
 st.divider()
 
 
-# ---------------------------------------------------------
+
 # Upload section
-# ---------------------------------------------------------
+
 st.subheader("1. Build Knowledge Base")
 
 uploaded_files = st.file_uploader(
@@ -190,9 +186,9 @@ if st.session_state.indexed_documents:
 st.divider()
 
 
-# ---------------------------------------------------------
+
 # Question section
-# ---------------------------------------------------------
+
 st.subheader("2. Ask Your Documents")
 
 question = st.text_area(
@@ -246,9 +242,9 @@ if ask_button:
         st.error(f"Chat request failed: {exc}")
 
 
-# ---------------------------------------------------------
+
 # Current answer
-# ---------------------------------------------------------
+
 if st.session_state.last_result:
     result = st.session_state.last_result
 
@@ -274,9 +270,9 @@ if st.session_state.last_result:
 
 
 
-# ---------------------------------------------------------
+
 # History
-# ---------------------------------------------------------
+
 if st.session_state.messages:
     st.divider()
     st.subheader("Question History")
@@ -301,9 +297,9 @@ if st.session_state.messages:
                 )
 
 
-# ---------------------------------------------------------
+
 # Reset
-# ---------------------------------------------------------
+
 st.divider()
 
 if st.button("Clear Conversation"):
