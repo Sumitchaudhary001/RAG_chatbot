@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "question": "How many sessions are included in the Digital Animation Creator Program?",
+    "expected_answer": "The program includes 30 sessions."
+  },
+  {
+    "id": 2,
+    "question": "How long is each session in the program?",
+    "expected_answer": "Each session is 60 minutes long."
+  },
+  {
+    "id": 3,
+    "question": "What topics are covered in Session 2?",
+    "expected_answer": "Session 2 covers squash and stretch, timing, and spacing fundamentals."
+  },
+  {
+    "id": 4,
+    "question": "What is taught in Session 4?",
+    "expected_answer": "Session 4 teaches character design basics, including creating simple animated characters with expressions and personality."
+  },
+  {
+    "id": 5,
+    "question": "What is the purpose of Session 5 on Storyboarding Fundamentals?",
+    "expected_answer": "Session 5 teaches planning scenes visually before starting animation production."
+  },
+  {
+    "id": 6,
+    "question": "What software interface concepts are taught in Session 6?",
+    "expected_answer": "Session 6 covers the timeline, layers, frames, and essential tools."
+  },
+  {
+    "id": 7,
+    "question": "What do students learn in Session 8?",
+    "expected_answer": "Students learn character movement animation by creating walk cycles and basic character actions."
+  },
+  {
+    "id": 8,
+    "question": "What is the focus of Phase 2?",
+    "expected_answer": "Phase 2 focuses on planning and producing a complete animated short film with scene execution, sound integration, final editing, and confident project presentation."
+  },
+  {
+    "id": 9,
+    "question": "What is covered in Session 13?",
+    "expected_answer": "Session 13 covers audio and sound integration, including adding background music and syncing sound effects."
+  },
+  {
+    "id": 10,
+    "question": "What happens in Session 15?",
+    "expected_answer": "Students present their completed animation project with feedback and certification."
+  },
+  {
+    "id": 11,
+    "question": "What advanced character movements are taught in Session 16?",
+    "expected_answer": "Session 16 teaches smooth walk cycles, jumps, and expressive body actions."
+  },
+  {
+    "id": 12,
+    "question": "Which emotions are specifically mentioned in the Facial Expression Animation session?",
+    "expected_answer": "The emotions mentioned are happiness, surprise, anger, and sadness."
+  },
+  {
+    "id": 13,
+    "question": "What is taught in Session 18 on Lip Sync Basics?",
+    "expected_answer": "Session 18 teaches synchronizing character mouth movement with voice or audio."
+  },
+  {
+    "id": 14,
+    "question": "Which camera techniques are mentioned in Session 19?",
+    "expected_answer": "Session 19 mentions zoom, pan, and scene transitions for cinematic effect."
+  },
+  {
+    "id": 15,
+    "question": "What is the difference between Session 24 and Session 25?",
+    "expected_answer": "Session 24 starts a structured animation project with multiple connected scenes, while Session 25 continues scene development with smooth transitions."
+  },
+  {
+    "id": 16,
+    "question": "What professional audio skills are covered in Session 26?",
+    "expected_answer": "Session 26 covers adding professional voiceovers, syncing sound effects, balancing background music, and ensuring clean audio integration with animation scenes."
+  },
+  {
+    "id": 17,
+    "question": "What improvements are made during Session 28?",
+    "expected_answer": "Session 28 focuses on polishing animation timing, improving scene flow, correcting minor errors, and enhancing overall presentation quality."
+  },
+  {
+    "id": 18,
+    "question": "What do students learn in Session 29?",
+    "expected_answer": "Students learn to organize completed projects into a professional portfolio and develop confident presentation techniques for showcasing work."
+  },
+  {
+    "id": 19,
+    "question": "Name three learning outcomes of the 30-session program.",
+    "expected_answer": "Three learning outcomes include mastering core and advanced animation principles, creating multi-scene animated stories with structured storytelling, and building a professional portfolio-ready animation project."
+  },
+  {
+    "id": 20,
+    "question": "What is the tuition fee for the Digital Animation Creator Program?",
+    "expected_answer": "I don't know based on the provided documents."
+  }
+]

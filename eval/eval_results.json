@@ -1,0 +1,322 @@
+[
+  {
+    "id": 1,
+    "question": "How many sessions are included in the Digital Animation Creator Program?",
+    "expected_answer": "The program includes 30 sessions.",
+    "generated_answer": "30 sessions [source: Digital Animation 30 Sessions.pdf, page 0].",
+    "retrieved_sources": [
+      "Digital Animation 30 Sessions.pdf p0",
+      "Digital Animation 30 Sessions.pdf p1",
+      "Digital Animation 30 Sessions.pdf p1",
+      "Digital Animation 30 Sessions.pdf p0",
+      "Digital Animation 30 Sessions.pdf p1",
+      "Digital Animation 30 Sessions.pdf p0"
+    ],
+    "overlap_score": 0.2,
+    "correct": false
+  },
+  {
+    "id": 2,
+    "question": "How long is each session in the program?",
+    "expected_answer": "Each session is 60 minutes long.",
+    "generated_answer": "I don't know based on the provided documents.",
+    "retrieved_sources": [
+      "Digital Animation 30 Sessions.pdf p1",
+      "Digital Animation 30 Sessions.pdf p0",
+      "Digital Animation 30 Sessions.pdf p1",
+      "Digital Animation 30 Sessions.pdf p1",
+      "Digital Animation 30 Sessions.pdf p2",
+      "Digital Animation 30 Sessions.pdf p0"
+    ],
+    "overlap_score": 0.0,
+    "correct": false
+  },
+  {
+    "id": 3,
+    "question": "What topics are covered in Session 2?",
+    "expected_answer": "Session 2 covers squash and stretch, timing, and spacing fundamentals.",
+    "generated_answer": "Learning squash & stretch, timing, and spacing fundamentals. [source: Digital Animation 30 Sessions.pdf, page 0]",
+    "retrieved_sources": [
+      "Digital Animation 30 Sessions.pdf p1",
+      "Digital Animation 30 Sessions.pdf p1",
+      "Digital Animation 30 Sessions.pdf p0",
+      "Digital Animation 30 Sessions.pdf p0",
+      "Digital Animation 30 Sessions.pdf p2",
+      "Digital Animation 30 Sessions.pdf p1"
+    ],
+    "overlap_score": 0.67,
+    "correct": true
+  },
+  {
+    "id": 4,
+    "question": "What is taught in Session 4?",
+    "expected_answer": "Session 4 teaches character design basics, including creating simple animated characters with expressions and personality.",
+    "generated_answer": "Creating simple animated characters with expressions and personality. [source: Digital Animation 30 Sessions.pdf, page 0]",
+    "retrieved_sources": [
+      "Digital Animation 30 Sessions.pdf p1",
+      "Digital Animation 30 Sessions.pdf p0",
+      "Digital Animation 30 Sessions.pdf p0",
+      "Digital Animation 30 Sessions.pdf p1",
+      "Digital Animation 30 Sessions.pdf p4",
+      "Digital Animation 30 Sessions.pdf p2"
+    ],
+    "overlap_score": 0.53,
+    "correct": true
+  },
+  {
+    "id": 5,
+    "question": "What is the purpose of Session 5 on Storyboarding Fundamentals?",
+    "expected_answer": "Session 5 teaches planning scenes visually before starting animation production.",
+    "generated_answer": "Planning scenes visually before starting animation production [source: Digital Animation 30 Sessions.pdf, page 0].",
+    "retrieved_sources": [
+      "Digital Animation 30 Sessions.pdf p0",
+      "Digital Animation 30 Sessions.pdf p2",
+      "Digital Animation 30 Sessions.pdf p0",
+      "Digital Animation 30 Sessions.pdf p2",
+      "Digital Animation 30 Sessions.pdf p1",
+      "Digital Animation 30 Sessions.pdf p2"
+    ],
+    "overlap_score": 0.6,
+    "correct": true
+  },
+  {
+    "id": 6,
+    "question": "What software interface concepts are taught in Session 6?",
+    "expected_answer": "Session 6 covers the timeline, layers, frames, and essential tools.",
+    "generated_answer": "Understanding timeline, layers, frames, and essential tools. [source: Digital Animation 30 Sessions.pdf, page 0]",
+    "retrieved_sources": [
+      "Digital Animation 30 Sessions.pdf p0",
+      "Digital Animation 30 Sessions.pdf p1",
+      "Digital Animation 30 Sessions.pdf p0",
+      "Digital Animation 30 Sessions.pdf p1",
+      "Digital Animation 30 Sessions.pdf p2",
+      "Digital Animation 30 Sessions.pdf p4"
+    ],
+    "overlap_score": 0.6,
+    "correct": true
+  },
+  {
+    "id": 7,
+    "question": "What do students learn in Session 8?",
+    "expected_answer": "Students learn character movement animation by creating walk cycles and basic character actions.",
+    "generated_answer": "Creating walk cycles and basic character actions. [source: Digital Animation 30 Sessions.pdf, page 1]",
+    "retrieved_sources": [
+      "Digital Animation 30 Sessions.pdf p1",
+      "Digital Animation 30 Sessions.pdf p4",
+      "Digital Animation 30 Sessions.pdf p0",
+      "Digital Animation 30 Sessions.pdf p1",
+      "Digital Animation 30 Sessions.pdf p0",
+      "Digital Animation 30 Sessions.pdf p2"
+    ],
+    "overlap_score": 0.67,
+    "correct": true
+  },
+  {
+    "id": 8,
+    "question": "What is the focus of Phase 2?",
+    "expected_answer": "Phase 2 focuses on planning and producing a complete animated short film with scene execution, sound integration, final editing, and confident project presentation.",
+    "generated_answer": "The focus of Phase 2 is Planning and producing a complete animated short film with scene execution, sound integration, final editing, and confident project presentation. [source: Digital Animation 30 Sessions.pdf, page 1]",
+    "retrieved_sources": [
+      "Digital Animation 30 Sessions.pdf p1",
+      "Digital Animation 30 Sessions.pdf p2",
+      "Digital Animation 30 Sessions.pdf p3",
+      "Digital Animation 30 Sessions.pdf p1",
+      "Digital Animation 30 Sessions.pdf p0",
+      "Digital Animation 30 Sessions.pdf p1"
+    ],
+    "overlap_score": 0.91,
+    "correct": true
+  },
+  {
+    "id": 9,
+    "question": "What is covered in Session 13?",
+    "expected_answer": "Session 13 covers audio and sound integration, including adding background music and syncing sound effects.",
+    "generated_answer": "Adding background music and syncing sound effects. [source: Digital Animation 30 Sessions.pdf, page 1]",
+    "retrieved_sources": [
+      "Digital Animation 30 Sessions.pdf p1",
+      "Digital Animation 30 Sessions.pdf p1",
+      "Digital Animation 30 Sessions.pdf p1",
+      "Digital Animation 30 Sessions.pdf p2",
+      "Digital Animation 30 Sessions.pdf p0",
+      "Digital Animation 30 Sessions.pdf p2"
+    ],
+    "overlap_score": 0.54,
+    "correct": true
+  },
+  {
+    "id": 10,
+    "question": "What happens in Session 15?",
+    "expected_answer": "Students present their completed animation project with feedback and certification.",
+    "generated_answer": "In Session 15, Final Animation Showcase & Certification, the completed animation project is presented with feedback and certification. [source: Digital Animation 30 Sessions.pdf, page 1]",
+    "retrieved_sources": [
+      "Digital Animation 30 Sessions.pdf p1",
+      "Digital Animation 30 Sessions.pdf p1",
+      "Digital Animation 30 Sessions.pdf p1",
+      "Digital Animation 30 Sessions.pdf p2",
+      "Digital Animation 30 Sessions.pdf p2",
+      "Digital Animation 30 Sessions.pdf p0"
+    ],
+    "overlap_score": 0.7,
+    "correct": true
+  },
+  {
+    "id": 11,
+    "question": "What advanced character movements are taught in Session 16?",
+    "expected_answer": "Session 16 teaches smooth walk cycles, jumps, and expressive body actions.",
+    "generated_answer": "Creating smooth walk cycles, jumps, and expressive body actions [source: Digital Animation 30 Sessions.pdf, page 2].",
+    "retrieved_sources": [
+      "Digital Animation 30 Sessions.pdf p2",
+      "Digital Animation 30 Sessions.pdf p2",
+      "Digital Animation 30 Sessions.pdf p4",
+      "Digital Animation 30 Sessions.pdf p0",
+      "Digital Animation 30 Sessions.pdf p1",
+      "Digital Animation 30 Sessions.pdf p0"
+    ],
+    "overlap_score": 0.64,
+    "correct": true
+  },
+  {
+    "id": 12,
+    "question": "Which emotions are specifically mentioned in the Facial Expression Animation session?",
+    "expected_answer": "The emotions mentioned are happiness, surprise, anger, and sadness.",
+    "generated_answer": "Happiness, surprise, anger, and sadness [source: Digital Animation 30 Sessions.pdf, page 2].",
+    "retrieved_sources": [
+      "Digital Animation 30 Sessions.pdf p2",
+      "Digital Animation 30 Sessions.pdf p2",
+      "Digital Animation 30 Sessions.pdf p0",
+      "Digital Animation 30 Sessions.pdf p1",
+      "Digital Animation 30 Sessions.pdf p1",
+      "Digital Animation 30 Sessions.pdf p0"
+    ],
+    "overlap_score": 0.44,
+    "correct": false
+  },
+  {
+    "id": 13,
+    "question": "What is taught in Session 18 on Lip Sync Basics?",
+    "expected_answer": "Session 18 teaches synchronizing character mouth movement with voice or audio.",
+    "generated_answer": "Synchronizing character mouth movement with voice/audio. [source: Digital Animation 30 Sessions.pdf, page 2]",
+    "retrieved_sources": [
+      "Digital Animation 30 Sessions.pdf p2",
+      "Digital Animation 30 Sessions.pdf p1",
+      "Digital Animation 30 Sessions.pdf p4",
+      "Digital Animation 30 Sessions.pdf p3",
+      "Digital Animation 30 Sessions.pdf p2",
+      "Digital Animation 30 Sessions.pdf p0"
+    ],
+    "overlap_score": 0.45,
+    "correct": false
+  },
+  {
+    "id": 14,
+    "question": "Which camera techniques are mentioned in Session 19?",
+    "expected_answer": "Session 19 mentions zoom, pan, and scene transitions for cinematic effect.",
+    "generated_answer": "Using zoom, pan, and scene transitions for cinematic effect. [source: Digital Animation 30 Sessions.pdf, page 2]",
+    "retrieved_sources": [
+      "Digital Animation 30 Sessions.pdf p2",
+      "Digital Animation 30 Sessions.pdf p2",
+      "Digital Animation 30 Sessions.pdf p1",
+      "Digital Animation 30 Sessions.pdf p3",
+      "Digital Animation 30 Sessions.pdf p1",
+      "Digital Animation 30 Sessions.pdf p2"
+    ],
+    "overlap_score": 0.73,
+    "correct": true
+  },
+  {
+    "id": 15,
+    "question": "What is the difference between Session 24 and Session 25?",
+    "expected_answer": "Session 24 starts a structured animation project with multiple connected scenes, while Session 25 continues scene development with smooth transitions.",
+    "generated_answer": "I don't know based on the provided documents.",
+    "retrieved_sources": [
+      "Digital Animation 30 Sessions.pdf p1",
+      "Digital Animation 30 Sessions.pdf p2",
+      "Digital Animation 30 Sessions.pdf p2",
+      "Digital Animation 30 Sessions.pdf p1",
+      "Digital Animation 30 Sessions.pdf p0",
+      "Digital Animation 30 Sessions.pdf p3"
+    ],
+    "overlap_score": 0.0,
+    "correct": false
+  },
+  {
+    "id": 16,
+    "question": "What professional audio skills are covered in Session 26?",
+    "expected_answer": "Session 26 covers adding professional voiceovers, syncing sound effects, balancing background music, and ensuring clean audio integration with animation scenes.",
+    "generated_answer": "Adding professional voiceovers, syncing sound effects, balancing background music, and ensuring clean audio integration with animation scenes. [source: Digital Animation 30 Sessions.pdf, page 3]",
+    "retrieved_sources": [
+      "Digital Animation 30 Sessions.pdf p3",
+      "Digital Animation 30 Sessions.pdf p1",
+      "Digital Animation 30 Sessions.pdf p2",
+      "Digital Animation 30 Sessions.pdf p0",
+      "Digital Animation 30 Sessions.pdf p4",
+      "Digital Animation 30 Sessions.pdf p4"
+    ],
+    "overlap_score": 0.85,
+    "correct": true
+  },
+  {
+    "id": 17,
+    "question": "What improvements are made during Session 28?",
+    "expected_answer": "Session 28 focuses on polishing animation timing, improving scene flow, correcting minor errors, and enhancing overall presentation quality.",
+    "generated_answer": "Polishing animation timing, improving scene flow, correcting minor errors, and enhancing overall presentation quality. [source: Digital Animation 30 Sessions.pdf, page 3]",
+    "retrieved_sources": [
+      "Digital Animation 30 Sessions.pdf p1",
+      "Digital Animation 30 Sessions.pdf p3",
+      "Digital Animation 30 Sessions.pdf p1",
+      "Digital Animation 30 Sessions.pdf p2",
+      "Digital Animation 30 Sessions.pdf p3",
+      "Digital Animation 30 Sessions.pdf p2"
+    ],
+    "overlap_score": 0.78,
+    "correct": true
+  },
+  {
+    "id": 18,
+    "question": "What do students learn in Session 29?",
+    "expected_answer": "Students learn to organize completed projects into a professional portfolio and develop confident presentation techniques for showcasing work.",
+    "generated_answer": "Organizing completed projects into a professional portfolio and presentation skills [source: Digital Animation 30 Sessions.pdf, page 3].",
+    "retrieved_sources": [
+      "Digital Animation 30 Sessions.pdf p1",
+      "Digital Animation 30 Sessions.pdf p4",
+      "Digital Animation 30 Sessions.pdf p0",
+      "Digital Animation 30 Sessions.pdf p1",
+      "Digital Animation 30 Sessions.pdf p2",
+      "Digital Animation 30 Sessions.pdf p3"
+    ],
+    "overlap_score": 0.44,
+    "correct": false
+  },
+  {
+    "id": 19,
+    "question": "Name three learning outcomes of the 30-session program.",
+    "expected_answer": "Three learning outcomes include mastering core and advanced animation principles, creating multi-scene animated stories with structured storytelling, and building a professional portfolio-ready animation project.",
+    "generated_answer": "Master core and advanced animation principles for smooth, professional motion [source: Digital Animation 30 Sessions.pdf, page 4]. \nDesign expressive characters with detailed facial and body animations [source: Digital Animation 30 Sessions.pdf, page 4]. \nDevelop complete short animated films independently [source: Digital Animation 30 Sessions.pdf, page 4].",
+    "retrieved_sources": [
+      "Digital Animation 30 Sessions.pdf p4",
+      "Digital Animation 30 Sessions.pdf p0",
+      "Digital Animation 30 Sessions.pdf p3",
+      "Digital Animation 30 Sessions.pdf p1",
+      "Digital Animation 30 Sessions.pdf p3",
+      "Digital Animation 30 Sessions.pdf p3"
+    ],
+    "overlap_score": 0.32,
+    "correct": false
+  },
+  {
+    "id": 20,
+    "question": "What is the tuition fee for the Digital Animation Creator Program?",
+    "expected_answer": "I don't know based on the provided documents.",
+    "generated_answer": "I don't know based on the provided documents.",
+    "retrieved_sources": [
+      "Digital Animation 30 Sessions.pdf p0",
+      "Digital Animation 30 Sessions.pdf p4",
+      "Digital Animation 30 Sessions.pdf p4",
+      "Digital Animation 30 Sessions.pdf p3",
+      "Digital Animation 30 Sessions.pdf p0",
+      "Digital Animation 30 Sessions.pdf p3"
+    ],
+    "overlap_score": 1.0,
+    "correct": true
+  }
+]
