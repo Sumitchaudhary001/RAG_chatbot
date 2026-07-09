@@ -1,4 +1,4 @@
-# RAGLens — Multi-Document RAG Assistant
+# RAG Chatbot using Langchain
 
 A full-stack Retrieval-Augmented Generation (RAG) application for asking grounded questions over one or multiple PDF documents.
 
